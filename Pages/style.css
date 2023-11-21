@@ -26,6 +26,7 @@
 
 .topnav .icon {
   display: none;
+  color:black;
 }
 
 @media screen and (max-width: 600px) {
@@ -41,6 +42,7 @@
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
+    color:black;
     right: 0;
     top: 0;
   }
